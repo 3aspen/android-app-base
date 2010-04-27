@@ -9,10 +9,10 @@
     <groupId>com.threeaspen.android</groupId>
     <artifactId>android-app-base</artifactId>
     <packaging>pom</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <name>Base POM for Android Application</name>
     <scm>
-        <developerConnection>scm:svn:svn+ssh://svn.broudy.net/svn-projects/broudy/mobile/android-app-base/trunk</developerConnection>
+        <developerConnection>scm:svn:svn+ssh://svn.broudy.net/svn-projects/broudy/mobile/android-app-base/tags/android-app-base-1.1</developerConnection>
     </scm>
     <build>
         <sourceDirectory>src</sourceDirectory>
